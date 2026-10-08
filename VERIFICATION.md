@@ -1,5 +1,9 @@
 # Doğrulama / Verification
 
+Chrome eklentisi Opera'da (Chromium tabanlı) paketlenmemiş uzantı olarak yüklenip denendi. Mobil cihaz testi yapıldı. Kaynak: kullanıcının 8 Ekim 2026 bildirimi; cihaz ve test akışı ayrıntıları belirtilmedi. AI Brief Asistanı anahtarsız demo modunda.
+
+The Chrome extension was loaded and tested in Opera (Chromium-based) as an unpacked extension. Mobile device testing was performed. Source: the author's report dated 8 October 2026; device and test-flow details were not specified. AI Brief Assistant is in key-free demo mode.
+
 8 Ekim / October 2026
 
 - 10 benzersiz repo ve iki demo bağlantısı CV/portföy verilerinde mevcut. / Ten unique repository links and two demo links are present in CV/portfolio data.
