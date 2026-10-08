@@ -40,7 +40,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Yerel örneklerle hatalı veri ve tekrarlanan kayıtları test etti.
 
-### Satış Raporu — Veri analizi · [Kod](https://github.com/onurerbekte/sales-report-automation)
+### Satış Raporu — Veri analizi · [Kod](https://github.com/onurerbekte/sales-report)
 
 - CSV satışlarını ürün bazında pandas ile analiz etti.
 
@@ -50,15 +50,15 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Geliştirildi ve testlerle doğrulandı: okuma listesi mantığı.
 
-- 4 mantık testi; Chrome eklentisi Opera'da (Chromium tabanlı) paketlenmemiş uzantı olarak yüklenip denendi.
+- 4 mantık testi; Opera’da elle denendi.
 
 ### Görev Botu — Telegram · [Kod](https://github.com/onurerbekte/telegram-task-bot)
 
 - Geliştirildi ve testlerle doğrulandı: SQL görev komutları.
 
-- 4 otomatik test; Kullanıcı tarafından gerçek Telegram botuyla elle test edildi: /add, /list, /done, /lang.
+- 4 otomatik test; gerçek botla elle denendi.
 
-### Alışkanlık Takibi — Mobil · [Kod](https://github.com/onurerbekte/mobile-habit-tracker)
+### Alışkanlık Takibi — Mobil · [Kod](https://github.com/onurerbekte/habit-tracker-mobile)
 
 - İki dilli mobil alışkanlık ve günlük ilerleme ekranı hazırladı.
 
@@ -68,12 +68,12 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Geliştirildi ve testlerle doğrulandı: brief API entegrasyonu.
 
-- Anahtarsız demo modu; 11 test ve taklit API yanıtları.
+- Anahtarsız demo modu; 11 test.
 
-### Stok API — Docker ve CI · [Kod](https://github.com/onurerbekte/inventory-api-docker)
+### Stok API — Docker ve CI · [Kod](https://github.com/onurerbekte/api-docker)
 
 - Docker ile çalıştırıldı, temel istekler elle test edildi.
 
 - GET /health 200, GET /products 200, POST /products 201; PATCH, DELETE, /summary otomatik testlerle doğrulandı.
 
-Tüm projeler kurgusal demodur. Chrome eklentisi Opera'da (Chromium tabanlı) paketlenmemiş uzantı olarak yüklenip denendi. Proje anahtarsız demo modunda. Mobil cihaz testi yapıldı. Docker projesi Stok API'nin devamıdır. Codex desteğiyle geliştirildi. Repo ve demo adresleri kullanıcı tarafından bildirildi.
+Projeler kurgusal demodur; Codex desteğiyle geliştirildi. Mola sitesi Opera'da elle açılıp görsel olarak kontrol edildi. Telegram botu gerçek botla elle test edildi. Chrome eklentisi Opera'da elle test edildi. Docker projesi Docker Desktop ile çalıştırıldı; GET /health, GET /products ve POST /products elle denendi. OpenAI projesi anahtarsız demo modunda. Mobil cihaz testi yapıldı; yalnızca Android/iOS/web paketleri derlendi.

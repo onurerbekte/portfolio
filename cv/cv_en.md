@@ -40,7 +40,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Tested malformed data and duplicates using local fixtures.
 
-### Sales Report — Data analysis · [Code](https://github.com/onurerbekte/sales-report-automation)
+### Sales Report — Data analysis · [Code](https://github.com/onurerbekte/sales-report)
 
 - Analyzed CSV sales by product using pandas.
 
@@ -50,15 +50,15 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Developed and validated with tests: reading-list logic.
 
-- 4 logic tests; The Chrome extension was loaded and tested in Opera (Chromium-based) as an unpacked extension.
+- 4 logic tests; manually tested in Opera.
 
 ### Task Bot — Telegram · [Code](https://github.com/onurerbekte/telegram-task-bot)
 
 - Developed and validated with tests: SQL task commands.
 
-- 4 automated tests; Manually tested by the author with a real Telegram bot: /add, /list, /done, /lang.
+- 4 automated tests; manually tested with a real bot.
 
-### Habit Tracker — Mobile · [Code](https://github.com/onurerbekte/mobile-habit-tracker)
+### Habit Tracker — Mobile · [Code](https://github.com/onurerbekte/habit-tracker-mobile)
 
 - Built bilingual mobile habit and daily progress screens.
 
@@ -68,12 +68,12 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Developed and validated with tests: brief API integration.
 
-- Key-free demo mode; 11 tests and mocked API responses.
+- Key-free demo mode; 11 tests.
 
-### Inventory API — Docker and CI · [Code](https://github.com/onurerbekte/inventory-api-docker)
+### Inventory API — Docker and CI · [Code](https://github.com/onurerbekte/api-docker)
 
 - Run with Docker; basic requests were manually tested.
 
 - GET /health 200, GET /products 200, POST /products 201; PATCH, DELETE, /summary validated with automated tests.
 
-All projects are fictional demos. The Chrome extension was loaded and tested in Opera (Chromium-based) as an unpacked extension. The project is in key-free demo mode. Mobile device testing was performed. The Docker project extends the Inventory API. Developed with Codex assistance. Repository and demo addresses supplied by the author.
+Projects are fictional demos developed with Codex assistance. The Mola website was manually opened and visually checked in Opera. The Telegram bot was manually tested with a real bot. The Chrome extension was manually tested in Opera. The Docker project was run with Docker Desktop; GET /health, GET /products and POST /products were manually exercised. The OpenAI project is in key-free demo mode. Mobile device testing was performed; only Android/iOS/web bundles were built.
