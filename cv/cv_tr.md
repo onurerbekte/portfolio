@@ -50,7 +50,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Geliştirildi ve testlerle doğrulandı: okuma listesi mantığı.
 
-- 4 mantık testi; Chrome içinde denenmedi.
+- 4 mantık testi; Chrome eklentisi Opera'da (Chromium tabanlı) paketlenmemiş uzantı olarak yüklenip denendi.
 
 ### Görev Botu — Telegram · [Kod](https://github.com/onurerbekte/telegram-task-bot)
 
@@ -68,7 +68,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Geliştirildi ve testlerle doğrulandı: brief API entegrasyonu.
 
-- 11 test; taklit API yanıtları, gerçek OpenAI çağrısı yapılmadı.
+- Anahtarsız demo modu; 11 test ve taklit API yanıtları.
 
 ### Stok API — Docker ve CI · [Kod](https://github.com/onurerbekte/inventory-api-docker)
 
@@ -76,4 +76,4 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - GET /health 200, GET /products 200, POST /products 201; PATCH, DELETE, /summary otomatik testlerle doğrulandı.
 
-Codex desteğiyle geliştirilen kurgusal demolar. Docker projesi Stok API’nin devamıdır. Repo ve demo adresleri kullanıcı tarafından bildirildi.
+Tüm projeler kurgusal demodur. Chrome eklentisi Opera'da (Chromium tabanlı) paketlenmemiş uzantı olarak yüklenip denendi. Proje anahtarsız demo modunda. Mobil cihaz testi yapıldı. Docker projesi Stok API'nin devamıdır. Codex desteğiyle geliştirildi. Repo ve demo adresleri kullanıcı tarafından bildirildi.

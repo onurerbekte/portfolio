@@ -50,7 +50,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Developed and validated with tests: reading-list logic.
 
-- 4 logic tests; not tested inside Chrome.
+- 4 logic tests; The Chrome extension was loaded and tested in Opera (Chromium-based) as an unpacked extension.
 
 ### Task Bot — Telegram · [Code](https://github.com/onurerbekte/telegram-task-bot)
 
@@ -68,7 +68,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Developed and validated with tests: brief API integration.
 
-- 11 tests; mocked API responses, no real OpenAI request.
+- Key-free demo mode; 11 tests and mocked API responses.
 
 ### Inventory API — Docker and CI · [Code](https://github.com/onurerbekte/inventory-api-docker)
 
@@ -76,4 +76,4 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - GET /health 200, GET /products 200, POST /products 201; PATCH, DELETE, /summary validated with automated tests.
 
-Fictional demos developed with Codex assistance. Docker project extends the Inventory API. Repository and demo addresses supplied by the author.
+All projects are fictional demos. The Chrome extension was loaded and tested in Opera (Chromium-based) as an unpacked extension. The project is in key-free demo mode. Mobile device testing was performed. The Docker project extends the Inventory API. Developed with Codex assistance. Repository and demo addresses supplied by the author.
