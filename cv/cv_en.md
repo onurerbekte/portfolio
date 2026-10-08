@@ -72,8 +72,8 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 ### Inventory API — Docker and CI · [Code](https://github.com/onurerbekte/inventory-api-docker)
 
-- Developed and validated with tests: inventory API packaging files.
+- Run with Docker; basic requests were manually tested.
 
-- 9 API tests and YAML checks; Docker container not run.
+- GET /health 200, GET /products 200, POST /products 201; PATCH, DELETE, /summary validated with automated tests.
 
 Fictional demos developed with Codex assistance. Docker project extends the Inventory API. Repository and demo addresses supplied by the author.

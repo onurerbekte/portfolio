@@ -72,8 +72,8 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 ### Stok API — Docker ve CI · [Kod](https://github.com/onurerbekte/inventory-api-docker)
 
-- Geliştirildi ve testlerle doğrulandı: stok API paketleme dosyaları.
+- Docker ile çalıştırıldı, temel istekler elle test edildi.
 
-- 9 API testi ve YAML kontrolü; Docker konteyneri çalıştırılmadı.
+- GET /health 200, GET /products 200, POST /products 201; PATCH, DELETE, /summary otomatik testlerle doğrulandı.
 
 Codex desteğiyle geliştirilen kurgusal demolar. Docker projesi Stok API’nin devamıdır. Repo ve demo adresleri kullanıcı tarafından bildirildi.
