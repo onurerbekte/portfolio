@@ -56,7 +56,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Geliştirildi ve testlerle doğrulandı: SQL görev komutları.
 
-- 4 test ve çevrimdışı demo; Telegram bağlantısı denenmedi.
+- 4 otomatik test; Kullanıcı tarafından gerçek Telegram botuyla elle test edildi: /add, /list, /done, /lang.
 
 ### Alışkanlık Takibi — Mobil · [Kod](https://github.com/onurerbekte/mobile-habit-tracker)
 

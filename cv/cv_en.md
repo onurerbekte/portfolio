@@ -56,7 +56,7 @@ HTML5, CSS, JavaScript, Grid/Flexbox, React, JSX, Vite, localStorage, Python, Fa
 
 - Developed and validated with tests: SQL task commands.
 
-- 4 tests and offline demo; Telegram connection not tested.
+- 4 automated tests; Manually tested by the author with a real Telegram bot: /add, /list, /done, /lang.
 
 ### Habit Tracker — Mobile · [Code](https://github.com/onurerbekte/mobile-habit-tracker)
 
